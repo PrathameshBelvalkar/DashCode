@@ -75,7 +75,7 @@ const MostSales = ({ filterMap }) => {
           ))}
         </ul>
       </div>
-      <div className="flex-1">
+      <div className="flex-1 customMap">
         <Worldmap />
       </div>
     </div>
